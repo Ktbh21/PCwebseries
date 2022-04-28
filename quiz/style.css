@@ -1,0 +1,72 @@
+/* font-family: 'Alef', sans-serif;
+font-family: 'Architects Daughter', cursive;
+font-family: 'Barlow', sans-serif;
+font-family: 'Fugaz One', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Rock Salt', cursive; */
+
+#results {
+  font-family: "Alef", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff008e;
+}
+
+body {
+  background-color: #f2789f;
+}
+
+.quiztitle {
+  background-color: black;
+  color: #ffc0d3;
+  font-family: "Monoton", cursive;
+  font-size: 24px;
+  text-align: center;
+}
+
+.quizqn {
+  background-color: #fee3ec;
+  font-family: "Fugaz One", cursive;
+  font-size: larger;
+  padding: 1em;
+}
+
+.qdiv {
+  background-color: #fee3ec;
+  font-family: "Fugaz One", cursive;
+  width: 100%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.qpara {
+  display: inline-block;
+  width: 70%;
+  margin: 5% auto;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border: dotted 5px hsla(0, 95%, 35%, 1);
+  padding: 1em;
+  line-height: 1.5em;
+  background: hsla(67, 95%, 95%, 1);
+}
+
+.titledesc,
+.titlebox {
+  font-family: "Fugaz One", cursive;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.submitbtn {
+  background-color: #ff008e;
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+  font-family: "Alef", sans-serif;
+}
+
+.titlebox {
+  margin: auto;
+  padding: 2em;
+}
